@@ -1,4 +1,4 @@
-package com.lubnamariyam.googlesigninusingcompose.model
+package com.techconsul.googlesigninusingcompose.model
 
 import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.delay

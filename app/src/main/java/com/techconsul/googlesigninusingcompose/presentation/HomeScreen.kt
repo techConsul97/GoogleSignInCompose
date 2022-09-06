@@ -1,4 +1,4 @@
-package com.lubnamariyam.googlesigninusingcompose.presentation
+package com.techconsul.googlesigninusingcompose.presentation
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.MaterialTheme
@@ -10,7 +10,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.lubnamariyam.googlesigninusingcompose.model.User
+import com.techconsul.googlesigninusingcompose.model.User
 
 @Composable
 fun HomeScreen(user: User){

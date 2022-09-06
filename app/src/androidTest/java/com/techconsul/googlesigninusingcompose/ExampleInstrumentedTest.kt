@@ -1,4 +1,4 @@
-package com.lubnamariyam.googlesigninusingcompose
+package com.techconsul.googlesigninusingcompose
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

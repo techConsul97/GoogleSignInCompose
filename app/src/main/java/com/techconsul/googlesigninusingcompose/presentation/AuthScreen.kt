@@ -1,4 +1,4 @@
-package com.lubnamariyam.googlesigninusingcompose.presentation
+package com.techconsul.googlesigninusingcompose.presentation
 
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.compose.animation.ExperimentalAnimationApi
@@ -12,8 +12,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.google.android.gms.common.api.ApiException
-import com.lubnamariyam.googlesigninusingcompose.model.AuthViewModel
-import com.lubnamariyam.googlesigninusingcompose.utils.AuthResultContract
+import com.techconsul.googlesigninusingcompose.model.AuthViewModel
+import com.techconsul.googlesigninusingcompose.utils.AuthResultContract
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.launch
 

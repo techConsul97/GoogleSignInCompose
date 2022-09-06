@@ -1,4 +1,4 @@
-package com.lubnamariyam.googlesigninusingcompose.utils
+package com.techconsul.googlesigninusingcompose.utils
 
 import android.app.Activity
 import android.content.Context

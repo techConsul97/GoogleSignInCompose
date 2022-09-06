@@ -1,4 +1,4 @@
-package com.lubnamariyam.googlesigninusingcompose
+package com.techconsul.googlesigninusingcompose
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,11 +11,11 @@ import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
-import com.lubnamariyam.googlesigninusingcompose.model.AuthViewModel
-import com.lubnamariyam.googlesigninusingcompose.presentation.AuthScreen
-import com.lubnamariyam.googlesigninusingcompose.presentation.AuthView
-import com.lubnamariyam.googlesigninusingcompose.presentation.GoogleSignInButtonUi
-import com.lubnamariyam.googlesigninusingcompose.ui.theme.GoogleSignInUsingComposeTheme
+import com.techconsul.googlesigninusingcompose.model.AuthViewModel
+import com.techconsul.googlesigninusingcompose.presentation.AuthScreen
+import com.techconsul.googlesigninusingcompose.presentation.AuthView
+import com.techconsul.googlesigninusingcompose.presentation.GoogleSignInButtonUi
+import com.techconsul.googlesigninusingcompose.ui.theme.GoogleSignInUsingComposeTheme
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 
 class MainActivity : ComponentActivity() {

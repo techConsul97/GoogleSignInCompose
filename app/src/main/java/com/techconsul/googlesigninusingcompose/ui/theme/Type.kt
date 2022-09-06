@@ -1,4 +1,4 @@
-package com.lubnamariyam.googlesigninusingcompose.ui.theme
+package com.techconsul.googlesigninusingcompose.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

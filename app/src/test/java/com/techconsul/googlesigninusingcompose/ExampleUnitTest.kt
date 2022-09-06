@@ -1,4 +1,4 @@
-package com.lubnamariyam.googlesigninusingcompose
+package com.techconsul.googlesigninusingcompose
 
 import org.junit.Test
 

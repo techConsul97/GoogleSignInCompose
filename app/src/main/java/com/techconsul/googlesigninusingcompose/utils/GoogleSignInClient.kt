@@ -1,4 +1,4 @@
-package com.lubnamariyam.googlesigninusingcompose.utils
+package com.techconsul.googlesigninusingcompose.utils
 
 import android.content.Context
 import com.google.android.gms.auth.api.signin.GoogleSignIn

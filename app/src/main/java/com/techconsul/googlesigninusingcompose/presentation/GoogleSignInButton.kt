@@ -1,4 +1,4 @@
-package com.lubnamariyam.googlesigninusingcompose.presentation
+package com.techconsul.googlesigninusingcompose.presentation
 
 import androidx.compose.material.ExperimentalMaterialApi
 import androidx.compose.animation.animateContentSize
@@ -20,8 +20,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.*
 import androidx.compose.ui.tooling.preview.Preview
-import com.lubnamariyam.googlesigninusingcompose.R
-import com.lubnamariyam.googlesigninusingcompose.ui.theme.Shapes
+import com.techconsul.googlesigninusingcompose.R
+import com.techconsul.googlesigninusingcompose.ui.theme.Shapes
 import java.util.function.IntConsumer
 
 @ExperimentalMaterialApi
