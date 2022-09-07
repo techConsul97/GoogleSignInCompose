@@ -1,33 +1,37 @@
 {
   "project_info": {
-    "project_number": "845433960617",
-    "project_id": "signinusingcompose",
-    "storage_bucket": "signinusingcompose.appspot.com"
+    "project_number": "371706574626",
+    "project_id": "signincompose",
+    "storage_bucket": "signincompose.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:845433960617:android:445019cb3a4d26c7f051b8",
+        "mobilesdk_app_id": "1:371706574626:android:492c5ad1a8732b1ea8577b",
         "android_client_info": {
-          "package_name": "com.lubnamariyam.googlesigninusingcompose"
+          "package_name": "com.techconsul.googlesigninusingcompose"
         }
       },
       "oauth_client": [
         {
-          "client_id": "845433960617-o2uh71f1lih8h0dkqmugfg20varphdng.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "371706574626-eujhu55vn4ntn59kifesaeopof8rj10p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techconsul.googlesigninusingcompose",
+            "certificate_hash": "2ff1664c6fcf268516b414075bc5c0d886bd0c95"
+          }
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCujWnYnL5z-Kyt1OwT9jE7wkZKNuiKhf4"
+          "current_key": "AIzaSyA8WKrSiBkqo09DZrJFvPQPHbmiBBzH-aA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "845433960617-o2uh71f1lih8h0dkqmugfg20varphdng.apps.googleusercontent.com",
+              "client_id": "371706574626-49pnbd5nsijtv5m2f7im9k1il0bk2t5d.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
